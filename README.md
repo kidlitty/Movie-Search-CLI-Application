@@ -1,4 +1,4 @@
-# MovieCLI
+# Movie Search CLI Application
 
 A modern, interactive command-line application for searching movie information, built with Java 21.
 
@@ -9,8 +9,6 @@ A modern, interactive command-line application for searching movie information, 
   <img src="https://img.shields.io/badge/Jackson-2.17-orange" alt="Jackson">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License: MIT">
 </div>
-
-![Demo GIF](path/to/your/demo.gif)
 
 ## Description
 
@@ -94,5 +92,7 @@ This project is a sophisticated, real-world command-line tool for movie enthusia
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
+
+https://roadmap.sh/projects/tmdb-cli
 
 _This project uses the TMDB API but is not endorsed or certified by TMDB._
